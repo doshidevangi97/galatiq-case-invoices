@@ -1,0 +1,8 @@
+groq==1.7.0
+langgraph==1.2.22
+pdfplumber==0.11.10
+pydantic==2.14.3
+python-dotenv==1.2.4
+rich==15.0.0
+pytest==9.2.0
+anthropic==2.8.0

@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated at runtime
+inventory.db
+*.log
+
+# macOS
+.DS_Store
+
+logs/
+
+# Editor settings
+.vscode/
